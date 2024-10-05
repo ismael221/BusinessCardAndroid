@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Business Card</string>
+    <string name="name">Ismael Nunes Campos</string>
+    <string name="title">FullStack Developer</string>
+    <string name="phone">(34) 9 9100-3398</string>
+    <string name="email">ismaeldenunes@gmail.com</string>
+    <string name="social">https://github.com/ismael221</string>
 </resources>
